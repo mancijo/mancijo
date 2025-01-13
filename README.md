@@ -8,4 +8,3 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mancijo&layout=compact) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mancijo&show_icons=true)
