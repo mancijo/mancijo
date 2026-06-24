@@ -51,7 +51,7 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia para construi
 
 Utilizo meus projetos independentes e acadêmicos como um verdadeiro laboratório de engenharia avançada. 
 
-### 🛸 1. Harpia — Vigilância Autônoma e Engenharia Reversa
+### 🛸 1. HarpiaEyes — Vigilância Autônoma e Engenharia Reversa
 *Software independente de segurança e monitoramento autônomo para drones.*
 * **O Desafio:** Controlar e extrair telemetria de hardware proprietário sem documentação pública disponível.
 * **A Solução:** Realizei análise profunda de tráfego de rede utilizando **Wireshark** e engenharia reversa aplicada ao protocolo **LW Pro**. Mapeei a comunicação decodificando *frames* UDP de 17 bytes para estruturar comandos precisos em C#.
