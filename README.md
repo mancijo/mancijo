@@ -57,13 +57,7 @@ Utilizo meus projetos independentes e acadêmicos como um verdadeiro laboratóri
 * **A Solução:** Realizei análise profunda de tráfego de rede utilizando **Wireshark** e engenharia reversa aplicada ao protocolo **LW Pro**. Mapeei a comunicação decodificando *frames* UDP de 17 bytes para estruturar comandos precisos em C#.
 * **Diferencial:** Manipulação de pacotes de rede em baixo nível e tratamento de latência em tempo real.
 
-### 🤖 2. AutoApply — Automação de Processos E2E
-*Sistema inteligente para otimização de candidaturas profissionais.*
-* **O Desafio:** Criar uma esteira automatizada resiliente a mudanças dinâmicas na interface de grandes plataformas, como o LinkedIn.
-* **A Solução:** Desenvolvi um motor de busca e candidatura automatizada com C# e **Playwright**. O sistema realiza varredura, filtragem fina e submissão contornando desafios de carregamento assíncrono.
-* **Diferencial:** Emulação realista de interações humanas e tratamento robusto de exceções visuais.
-
-### 🏢 3. UpDesk — Gestão Ágil de Chamados Multiplataforma
+### 🏢 2. UpDesk — Gestão Ágil de Chamados Multiplataforma
 *Ecossistema completo para gerenciamento e triagem de suporte técnico acadêmico.*
 * **A Solução:** Arquitetura distribuída com servidor central em C# consumido por clientes **Web, Mobile e Desktop**. Implementei chat em tempo real via WebSockets e controle de acesso baseado em funções (RBAC).
 * **Liderança:** Atuei diretamente como **Scrum Master**, guiando a equipe, refinando o backlog e garantindo entregas contínuas e alinhamento do time.
